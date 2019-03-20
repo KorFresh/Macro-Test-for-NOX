@@ -1,0 +1,15 @@
+C:\Users\FRESH\source\repos\Hi Fresh\Hi Fresh\bin\Debug\Hi Fresh.exe.config
+C:\Users\FRESH\source\repos\Hi Fresh\Hi Fresh\bin\Debug\Hi Fresh.exe.manifest
+C:\Users\FRESH\source\repos\Hi Fresh\Hi Fresh\bin\Debug\Hi Fresh.application
+C:\Users\FRESH\source\repos\Hi Fresh\Hi Fresh\bin\Debug\Hi Fresh.exe
+C:\Users\FRESH\source\repos\Hi Fresh\Hi Fresh\bin\Debug\Hi Fresh.pdb
+C:\Users\FRESH\source\repos\Hi Fresh\Hi Fresh\obj\Debug\Hi_Fresh.statusList.resources
+C:\Users\FRESH\source\repos\Hi Fresh\Hi Fresh\obj\Debug\Hi_Fresh.Properties.Resources.resources
+C:\Users\FRESH\source\repos\Hi Fresh\Hi Fresh\obj\Debug\Hi_Fresh.Resource1.resources
+C:\Users\FRESH\source\repos\Hi Fresh\Hi Fresh\obj\Debug\Hi Fresh.csproj.GenerateResource.cache
+C:\Users\FRESH\source\repos\Hi Fresh\Hi Fresh\obj\Debug\Hi Fresh.csproj.CoreCompileInputs.cache
+C:\Users\FRESH\source\repos\Hi Fresh\Hi Fresh\obj\Debug\Hi Fresh.TrustInfo.xml
+C:\Users\FRESH\source\repos\Hi Fresh\Hi Fresh\obj\Debug\Hi Fresh.exe.manifest
+C:\Users\FRESH\source\repos\Hi Fresh\Hi Fresh\obj\Debug\Hi Fresh.application
+C:\Users\FRESH\source\repos\Hi Fresh\Hi Fresh\obj\Debug\Hi Fresh.exe
+C:\Users\FRESH\source\repos\Hi Fresh\Hi Fresh\obj\Debug\Hi Fresh.pdb
